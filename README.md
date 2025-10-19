@@ -5,7 +5,7 @@ When you run this program, it initiates an interactive session that clearly guid
 
 The program includes robust error handling that validates your input - if you accidentally enter non-numeric values like letters or special characters, it will display "Invalid input! Please enter numbers only." and exit gracefully. Once valid input is received, the program shows you the sorted versions of both arrays for verification, then proceeds to compute the median using both methods while measuring their performance. The final output clearly displays all results in a well-formatted table-like structure, making it easy to compare the outcomes and performance characteristics of both algorithmic approaches.
 
-1. Mydaaproject.py
+2. Mydaaproject.py
 
 Contains all Python codes for the project implementation
 
